@@ -1,4 +1,4 @@
-# Composer template for Drupal projects
+# Victor's Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
 
@@ -20,7 +20,7 @@ for your setup.
 After that you can create the project:
 
 ```
-composer create-project drupal-composer/drupal-project:8.x-dev some-dir --no-interaction
+composer create-project GoodNovember/drupal-project:8.x-dev some-dir --no-interaction
 ```
 
 With `composer require ...` you can download new dependencies to your 
